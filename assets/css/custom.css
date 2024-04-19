@@ -1,0 +1,8 @@
+
+
+/*Forla selection. Light and Dark.*/
+::selection {
+    background-color: #ADBCEF; /* Cor de fundo da seleção */
+    color: #fff;
+}
+

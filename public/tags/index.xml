@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🔖 Tags on Rener Rannieri</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in 🔖 Tags on Rener Rannieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Rener Rannieri</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Tag</title>
+      <link>https://example.org/tags/post-tag/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/post-tag/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Concept Design</title>
+      <link>https://example.org/tags/concept-design/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/concept-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fav</title>
+      <link>https://example.org/tags/fav/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/fav/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Storyboard</title>
+      <link>https://example.org/tags/storyboard/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/storyboard/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
