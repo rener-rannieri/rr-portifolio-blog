@@ -68,7 +68,7 @@ smartTOCHideUnfocusedChildren = true
   showAuthorsBadges = false
   showWordCount = false
   sharingLinks = [ "linkedin", "facebook", "twitter", "whatsapp", "email"]
-  showZenMode = true
+  showZenMode = false
 
 [list]
   showHero = false
