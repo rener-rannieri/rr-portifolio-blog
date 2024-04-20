@@ -1,8 +1,30 @@
 
 
-/*Forla selection. Light and Dark.*/
+/* Increase the default font size */
+html {
+    font-size: 14pt;
+}
+
+/*Force selection prop. Same of Light and Dark.*/
 ::selection {
     background-color: #ADBCEF; /* Cor de fundo da seleção */
     color: #fff;
+}
+
+/* Increase size of breadcrumbs in article pages.*/
+.bread-space{
+    margin-bottom: 32px;
+}
+
+/*Increase padding meta in article pages.*/
+.meta-space{
+    margin-top: 10px;
+    
+}
+
+/*Organize delimit meta + tags in article pages.*/
+.span-space {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
 }
 
