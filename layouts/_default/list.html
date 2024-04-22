@@ -70,7 +70,7 @@
       All categories from the projects section
       except for the homepage of the project section.
     -->
-    {{ if and (eq .Section "projects") (not (eq .Title "🎯 Projects" | emojify )) }}
+    {{ if and (eq .Section "projects") (not (eq .Title "Projects" | emojify )) }}
 
       <div style="padding-top: 2rem; padding-bottom: 3rem;" class="pt-3">
         <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
@@ -84,7 +84,7 @@
         {{ end }}
       </section>
 
-    {{ else if eq .Title "🎯 Projects" | emojify }}
+    {{ else if eq .Title "Projects" | emojify }}
 
       <div style="padding-top: 2rem; padding-bottom: 3rem;" class="pt-3">
         <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
