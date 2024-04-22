@@ -1,0 +1,12 @@
+{{ $recentProjects := 3 }}
+{{ $recentProjects = .Site.Params.homepage.showRecentProj }}
+
+<!--AQUI: Filter and place only projects tagged 'fav' on the home page. 
+This tag is ignored in the rendering of the card listing".-->
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-2">
+  {{ $recentProjects := where .Site.RegularPages "Type" "projects" }}
+  {{ $favProjects := where $recentProjects ".Params.tags" "intersect" (slice "fav") }}
+  {{ range first 10 $favProjects }}
+    {{ partial "article-link/card-projects.html" . }}
+  {{ end }}
+</section>

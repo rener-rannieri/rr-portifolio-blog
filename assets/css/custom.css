@@ -11,6 +11,11 @@ html {
     color: #fff;
 }
 
+/*AQUIII - Precisa ATUALIZAR.*/
+.bd-hover:hover {
+    border-color: #bda1ff;
+}
+
 /* Increase size of breadcrumbs in article pages.*/
 .bread-space{
     margin-bottom: 32px;

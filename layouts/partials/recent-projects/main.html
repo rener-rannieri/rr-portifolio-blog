@@ -1,0 +1,41 @@
+{{ $recentProjects := 5 }}
+{{ $showMoreLinkDestPrj := "/projects" }}
+{{ if .Site.Params.homepage.showRecent | default false }}
+{{ if index .Site.Params.homepage "showRecentProj" }}
+{{ $recentProjects = .Site.Params.homepage.showRecentProj }}
+{{ end }}
+<h1 style="padding-top: 3rem;" class="mt-8 text-2xl font-extrabold mb-6">{{ i18n "recent.show_projects" | emojify }}</h1>
+
+<!--AQUI: Use text of markdown file for diferents idioms. -->
+<article style="padding-bottom: 3rem;">
+  {{ $lang := .Site.Language.Lang }}
+  
+  {{ with .Site.GetPage "section" "unique-pages" }}
+    {{ if eq $lang "en" }}
+      {{ with .GetPage "home-prj-en" }}
+        {{ .Content | markdownify }}
+      {{ end }}
+    {{ else if .Site.Params.footer.showAppearanceSwitcher | default false }}
+      {{ with .GetPage "home-prj-pt-br" }}
+        {{ .Content | markdownify }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</article>
+
+{{ partial "recent-projects/cardview.html" . }}
+
+{{ if .Site.Params.homepage.showMoreLink | default false }}
+{{ if index .Site.Params.homepage "showRecentProj" }}
+{{ $showMoreLinkDestPrj = .Site.Params.homepage.showMoreLinkDestPrj }}
+{{ end }}
+<div class="mt-10 flex justify-center">
+  <a href="{{ $showMoreLinkDestPrj }}">
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-lg">
+      {{ i18n "recent.show_more_prj" | markdownify | emojify }}
+    </button>
+  </a>
+</div>
+{{ end }}
+{{ end }}

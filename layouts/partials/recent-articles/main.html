@@ -1,0 +1,51 @@
+{{ $recentArticles := 5 }}
+{{ $showMoreLinkDest := "/posts" }}
+{{ if .Site.Params.homepage.showRecent | default false }}
+{{ if index .Site.Params.homepage "showRecentItems" }}
+{{ $recentArticles = .Site.Params.homepage.showRecentItems }}
+{{ end }}
+
+<!--AQUI: ADD space to. -->
+<h1 style="padding-top: 5rem;" class="mt-8 text-2xl font-extrabold mb-6">{{ i18n "shortcode.recent_articles" | emojify }}</h1>
+
+<!--AQUI: Use text of markdown file for diferents idioms. -->
+<article style="padding-bottom: 3rem;">
+  {{ $lang := .Site.Language.Lang }}
+  
+  {{ with .Site.GetPage "section" "unique-pages" }}
+    {{ if eq $lang "en" }}
+      {{ with .GetPage "home-blog-en" }}
+        {{ .Content | markdownify }}
+      {{ end }}
+    {{ else if .Site.Params.footer.showAppearanceSwitcher | default false }}
+      {{ with .GetPage "home-blog-pt-br" }}
+        {{ .Content | markdownify }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</article>
+
+
+{{ if and .Site.Params.homepage.cardView (not .Site.Params.homepage.cardViewScreenWidth) | default false }}
+  {{ partial "recent-articles/cardview.html" . }}
+{{ else if and .Site.Params.homepage.cardView .Site.Params.homepage.cardViewScreenWidth | default false }}
+  {{ partial "recent-articles/cardview-fullwidth.html" . }}
+{{ else }}
+  {{ partial "recent-articles/list.html" . }}
+{{ end }}
+
+{{ if .Site.Params.homepage.showMoreLink | default false }}
+{{ if index .Site.Params.homepage "showRecentItems" }}
+{{ $showMoreLinkDest = .Site.Params.homepage.showMoreLinkDest }}
+{{ end }}
+<div class="mt-10 flex justify-center">
+  <a href="{{ $showMoreLinkDest }}">
+    <!--AQUI: Rounded Button - lg-->
+    <button
+      class="bg-transparent hover:text-primary-500 prose dark:prose-invert font-semibold hover:text-white py-2 px-4 border border-primary-500 hover:border-transparent rounded-lg">
+      {{ i18n "recent.show_more" | markdownify | emojify }}
+    </button>
+  </a>
+</div>
+{{ end }}
+{{ end }}
