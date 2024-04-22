@@ -2,100 +2,100 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rener Rannieri</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TPE - Post 3</title>
-      <link>http://localhost:1313/blog/category-a/tpe-post-3/</link>
+      <link>https://example.org/blog/category-a/tpe-post-3/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/category-a/tpe-post-3/</guid>
+      <guid>https://example.org/blog/category-a/tpe-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-3/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/category-a/tpe-post-3/cover.png" />
     </item>
     
     <item>
       <title>TPE - Post 1</title>
-      <link>http://localhost:1313/blog/category-a/tpe-post-1/</link>
+      <link>https://example.org/blog/category-a/tpe-post-1/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/category-a/tpe-post-1/</guid>
+      <guid>https://example.org/blog/category-a/tpe-post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/category-a/tpe-post-1/cover.png" />
     </item>
     
     <item>
       <title>TPE - Post 2</title>
-      <link>http://localhost:1313/blog/category-b/tpe-post-2/</link>
+      <link>https://example.org/blog/category-b/tpe-post-2/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/category-b/tpe-post-2/</guid>
+      <guid>https://example.org/blog/category-b/tpe-post-2/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-b/tpe-post-2/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/category-b/tpe-post-2/cover.png" />
     </item>
     
     <item>
       <title>TPE - Post 4</title>
-      <link>http://localhost:1313/blog/category-c/tpe-post-4/</link>
+      <link>https://example.org/blog/category-c/tpe-post-4/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/blog/category-c/tpe-post-4/</guid>
+      <guid>https://example.org/blog/category-c/tpe-post-4/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-c/tpe-post-4/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/blog/category-c/tpe-post-4/cover.png" />
     </item>
     
     <item>
       <title>The Solo Test</title>
-      <link>http://localhost:1313/unique-pages/home-blog-en/</link>
+      <link>https://example.org/unique-pages/home-blog-en/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/unique-pages/home-blog-en/</guid>
+      <guid>https://example.org/unique-pages/home-blog-en/</guid>
       <description>I am an artista thats love writing.</description>
       
     </item>
     
     <item>
       <title>The Solo Test</title>
-      <link>http://localhost:1313/unique-pages/home-prj-en/</link>
+      <link>https://example.org/unique-pages/home-prj-en/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/unique-pages/home-prj-en/</guid>
+      <guid>https://example.org/unique-pages/home-prj-en/</guid>
       <description>I shows only the best websites and portfolios built completely with passion, simplicity &amp;amp; creativity!</description>
       
     </item>
     
     <item>
       <title>The Solo Test</title>
-      <link>http://localhost:1313/unique-pages/warning-comments-en/</link>
+      <link>https://example.org/unique-pages/warning-comments-en/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/unique-pages/warning-comments-en/</guid>
+      <guid>https://example.org/unique-pages/warning-comments-en/</guid>
       <description>Comments use the Element server, and you can create your account at element.</description>
       
     </item>
     
     <item>
       <title>TPE - Project - 1</title>
-      <link>http://localhost:1313/projects/concept-design/tpe-project-1/</link>
+      <link>https://example.org/projects/concept-design/tpe-project-1/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/concept-design/tpe-project-1/</guid>
+      <guid>https://example.org/projects/concept-design/tpe-project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/concept-design/tpe-project-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/concept-design/tpe-project-1/cover.png" />
     </item>
     
     <item>
       <title>TPE - Project - 1</title>
-      <link>http://localhost:1313/projects/storyboard/tpe-project-1/</link>
+      <link>https://example.org/projects/storyboard/tpe-project-1/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/storyboard/tpe-project-1/</guid>
+      <guid>https://example.org/projects/storyboard/tpe-project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/storyboard/tpe-project-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://example.org/projects/storyboard/tpe-project-1/cover.png" />
     </item>
     
   </channel>

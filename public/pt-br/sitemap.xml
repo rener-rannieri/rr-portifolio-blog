@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/pt-br/unique-pages/warning-comments-pt-br/</loc>
+    <loc>https://example.org/pt-br/unique-pages/warning-comments-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>https://example.org/pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/"
+      href="https://example.org/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/"
+      href="https://example.org/pt-br/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/unique-pages/home-blog-pt-br/</loc>
+    <loc>https://example.org/pt-br/unique-pages/home-blog-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/unique-pages/home-prj-pt-br/</loc>
+    <loc>https://example.org/pt-br/unique-pages/home-prj-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/unique-pages/</loc>
+    <loc>https://example.org/pt-br/unique-pages/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/unique-pages/"
+      href="https://example.org/unique-pages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/unique-pages/"
+      href="https://example.org/pt-br/unique-pages/"
     />
   </url>
 </urlset>
