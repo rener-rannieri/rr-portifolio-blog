@@ -2,7 +2,7 @@
 title: 🎯 Projects
 cascade:
     showHero: true
-    heroStyle: big
+    heroStyle: background
     showSummary: true
     showDate: false
     showWordCount: false

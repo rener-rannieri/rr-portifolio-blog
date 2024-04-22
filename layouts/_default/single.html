@@ -20,9 +20,18 @@
     <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
       {{ .Title | emojify }}
     </h1>
-    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
-      {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
-    </div>
+
+    <!--AQUI: A condition that displays the metadata (tags and information) depending on whether it's a blog or project.-->
+    {{ if eq .Section "projects" }}
+      <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        <!--AQUI. A specific file where I removed the rendering of the tag within the articles of project type.-->
+        {{ partial "article-meta/basic-projects-no-tags.html" (dict "context" . "scope" "single") }}
+      </div>
+    {{ else }}
+      <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+        {{ partial "article-meta/basic.html" (dict "context" . "scope" "single") }}
+      </div>
+    {{ end }}
 
     {{ $authorsData := .Site.Data.authors }}
     {{ $taxonomies := .Site.Taxonomies.authors }}
