@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🔖 Tags on Rener Rannieri</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://rr-portifolio-blog.netlify.app/tags/</link>
     <description>Recent content in 🔖 Tags on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post Tag</title>
-      <link>http://localhost:1313/tags/post-tag/</link>
+      <link>https://rr-portifolio-blog.netlify.app/tags/post-tag/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/post-tag/</guid>
+      <guid>https://rr-portifolio-blog.netlify.app/tags/post-tag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Concept Design</title>
-      <link>http://localhost:1313/tags/concept-design/</link>
+      <link>https://rr-portifolio-blog.netlify.app/tags/concept-design/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/concept-design/</guid>
+      <guid>https://rr-portifolio-blog.netlify.app/tags/concept-design/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fav</title>
-      <link>http://localhost:1313/tags/fav/</link>
+      <link>https://rr-portifolio-blog.netlify.app/tags/fav/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fav/</guid>
+      <guid>https://rr-portifolio-blog.netlify.app/tags/fav/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Storyboard</title>
-      <link>http://localhost:1313/tags/storyboard/</link>
+      <link>https://rr-portifolio-blog.netlify.app/tags/storyboard/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/storyboard/</guid>
+      <guid>https://rr-portifolio-blog.netlify.app/tags/storyboard/</guid>
       <description></description>
       
     </item>
