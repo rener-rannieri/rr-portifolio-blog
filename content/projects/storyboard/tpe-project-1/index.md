@@ -2,7 +2,7 @@
 title: "TPE - Project - 1"
 summary: "Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna."
 categories: ["Projects"]
-tags: ["storyboard", "fav"]
+tags: ["storyboard", "fav-project"]
 date: 2021-09-04
 ---
 

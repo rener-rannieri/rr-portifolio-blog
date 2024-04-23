@@ -58,7 +58,7 @@
 
 [[main]]
   name = "Now"
-  pageRef = "XXX"
+  pageRef = "unique-pages/now"
   weight = 40
 
 
@@ -67,7 +67,7 @@
 
 [[main]]
   name = "About"
-  pageRef = "XXX"
+  pageRef = "unique-pages/about"
   weight = 50
 
 

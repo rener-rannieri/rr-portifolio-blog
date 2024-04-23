@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://rr-portifolio-blog.netlify.app/pt-br/unique-pages/warning-comments-pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/unique-pages/warning-comments-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rr-portifolio-blog.netlify.app/pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://rr-portifolio-blog.netlify.app/"
+      href="http://localhost:1313/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://rr-portifolio-blog.netlify.app/pt-br/"
+      href="http://localhost:1313/pt-br/"
     />
   </url>
   <url>
-    <loc>https://rr-portifolio-blog.netlify.app/pt-br/unique-pages/home-blog-pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/unique-pages/home-blog-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rr-portifolio-blog.netlify.app/pt-br/unique-pages/home-prj-pt-br/</loc>
+    <loc>http://localhost:1313/pt-br/unique-pages/home-prj-pt-br/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://rr-portifolio-blog.netlify.app/pt-br/unique-pages/</loc>
+    <loc>http://localhost:1313/pt-br/unique-pages/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://rr-portifolio-blog.netlify.app/unique-pages/"
+      href="http://localhost:1313/unique-pages/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="https://rr-portifolio-blog.netlify.app/pt-br/unique-pages/"
+      href="http://localhost:1313/pt-br/unique-pages/"
     />
   </url>
 </urlset>

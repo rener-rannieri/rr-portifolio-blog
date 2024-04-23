@@ -2,50 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Category A on Rener Rannieri</title>
-    <link>https://rr-portifolio-blog.netlify.app/categories/category-a/</link>
+    <link>http://localhost:1313/categories/category-a/</link>
     <description>Recent content in Category A on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.netlify.app/categories/category-a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/category-a/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TPE - Post 3</title>
-      <link>https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-3/</link>
+      <link>http://localhost:1313/blog/category-a/tpe-post-3/</link>
       <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-3/</guid>
+      <guid>http://localhost:1313/blog/category-a/tpe-post-3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-3/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-3/cover.png" />
     </item>
     
     <item>
       <title>TPE - Post 1</title>
-      <link>https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-1/</link>
+      <link>http://localhost:1313/blog/category-a/tpe-post-1/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-1/</guid>
+      <guid>http://localhost:1313/blog/category-a/tpe-post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.netlify.app/blog/category-a/tpe-post-1/cover.png" />
-    </item>
-    
-    <item>
-      <title>TPE - Post 2</title>
-      <link>https://rr-portifolio-blog.netlify.app/blog/category-b/tpe-post-2/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://rr-portifolio-blog.netlify.app/blog/category-b/tpe-post-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.netlify.app/blog/category-b/tpe-post-2/cover.png" />
-    </item>
-    
-    <item>
-      <title>TPE - Post 4</title>
-      <link>https://rr-portifolio-blog.netlify.app/blog/category-c/tpe-post-4/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://rr-portifolio-blog.netlify.app/blog/category-c/tpe-post-4/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.netlify.app/blog/category-c/tpe-post-4/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-1/cover.png" />
     </item>
     
   </channel>

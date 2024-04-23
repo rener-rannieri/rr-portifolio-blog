@@ -1,8 +1,8 @@
 ---
 title: "TPE - Post 2"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue."
-categories: ["Category A"]
-tags: ["post tag"]
+categories: ["Category B"]
+tags: ["post tag", "fav-post"]
 showSummary: true
 draft: false
 date: 2022-09-04

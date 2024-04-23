@@ -1,7 +1,7 @@
 ---
 title: "TPE - Post 4"
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue."
-categories: ["Category A"]
+categories: ["Category C"]
 tags: ["post tag"]
 showSummary: true
 draft: false

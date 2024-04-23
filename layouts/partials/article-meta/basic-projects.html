@@ -86,7 +86,7 @@
   {{ range $taxonomy, $terms := .Site.Taxonomies }}
     {{ if eq $taxonomy "tags" }}
       {{ range $context.GetTerms $taxonomy }}
-        {{ if ne .Name "fav" }}
+        {{ if ne .Name "fav-project" }}
           <span style="margin-top:0.1rem" class="mr-2" onclick="window.open('{{ .RelPermalink }}','_self');">
             {{ partial "badge-projects.html" .LinkTitle }}
           </span>

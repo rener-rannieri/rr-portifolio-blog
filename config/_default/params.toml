@@ -92,7 +92,8 @@ smartTOCHideUnfocusedChildren = true
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
-[taxonomy]
+
+[taxonomy] # Just tag and categories index page, not results.
   showTermCount = true
   showHero = false
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
@@ -100,15 +101,15 @@ smartTOCHideUnfocusedChildren = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showBreadcrumbs = true
   showViews = false
   showLikes = false
-  showTableOfContents = true
+  showTableOfContents = false
   groupByYear = false
   cardView = false
   cardViewScreenWidth = false
