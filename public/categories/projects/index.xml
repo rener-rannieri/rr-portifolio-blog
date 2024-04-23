@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/projects/concept-design/tpe-project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/concept-design/tpe-project-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/concept-design/tpe-project-1/cover.webp" />
     </item>
     
     <item>
@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/projects/storyboard/tpe-project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/storyboard/tpe-project-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/storyboard/tpe-project-1/cover.webp" />
     </item>
     
   </channel>
