@@ -38,5 +38,15 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/daily_poster_challenge_2019/cover.png" />
     </item>
     
+    <item>
+      <title>Photography Series - 2018</title>
+      <link>http://localhost:1313/personal-projects/design/photography_2018/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/design/photography_2018/</guid>
+      <description>A collection of photographs taken in year 2018.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/photography_2018/cover.png" />
+    </item>
+    
   </channel>
 </rss>
