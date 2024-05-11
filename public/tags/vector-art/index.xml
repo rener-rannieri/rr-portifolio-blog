@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vector Art on Rener Rannieri</title>
+    <link>http://localhost:1313/tags/vector-art/</link>
+    <description>Recent content in Vector Art on Rener Rannieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Rener Rannieri</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vector-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lines and Shapes</title>
+      <link>http://localhost:1313/personal-projects/design/lines_and_shapes/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/personal-projects/design/lines_and_shapes/</guid>
+      <description>Experiments in Adobe Illustrator.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/lines_and_shapes/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

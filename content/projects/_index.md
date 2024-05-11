@@ -1,5 +1,5 @@
 ---
-title: 🎯 Projects
+title: 🎯 Portifolio
 cascade:
     showHero: true
     heroStyle: background

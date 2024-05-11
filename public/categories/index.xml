@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Personal-Projects</title>
+      <link>http://localhost:1313/categories/personal-projects/</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/personal-projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Category B</title>
       <link>http://localhost:1313/categories/category-b/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>

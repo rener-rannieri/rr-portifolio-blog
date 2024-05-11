@@ -3,14 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/pt-br/unique-pages/warning-comments-pt-br/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/pt-br/personal-projects/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/pt-br/</loc>
-    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -23,6 +33,76 @@
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/personal-projects/design/typo_letter_series_vol_i/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/design/typo_letter_series_vol_i/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/design/typo_letter_series_vol_i/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/personal-projects/design/</loc>
+    <lastmod>2023-12-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/design/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/design/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/personal-projects/design/daily_poster_challenge_2019/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/design/daily_poster_challenge_2019/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/design/daily_poster_challenge_2019/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/personal-projects/design/lines_and_shapes/</loc>
+    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/personal-projects/design/lines_and_shapes/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/personal-projects/design/lines_and_shapes/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/unique-pages/warning-comments-pt-br/</loc>
+    <lastmod>2021-09-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/pt-br/unique-pages/home-blog-pt-br/</loc>
