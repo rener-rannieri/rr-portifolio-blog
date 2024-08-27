@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photography on Rener Rannieri</title>
-    <link>https://rr-portifolio-blog.pages.dev/tags/photography/</link>
+    <link>http://localhost:1313/tags/photography/</link>
     <description>Recent content in Photography on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Photography Series - 2018</title>
-      <link>https://rr-portifolio-blog.pages.dev/personal-projects/design/photography_2018/</link>
+      <link>http://localhost:1313/personal-projects/design/photography_2018/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://rr-portifolio-blog.pages.dev/personal-projects/design/photography_2018/</guid>
+      <guid>http://localhost:1313/personal-projects/design/photography_2018/</guid>
       <description>A collection of photographs taken in year 2018.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.pages.dev/personal-projects/design/photography_2018/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/photography_2018/cover.png" />
     </item>
     
   </channel>
