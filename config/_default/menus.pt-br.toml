@@ -37,19 +37,19 @@
   weight = 20
 
 [[main]]
-  name = "10📦 Drops"
+  name = "10 Drops"
   parent = "Blog"
   pageRef = "drops"
   weight = 20
 
 [[main]]
-  name = "20📰 Artigos"
+  name = "20 Artigos"
   parent = "Blog"
   pageRef = "articles"
   weight = 20
 
 [[main]]
-  name = "30📄 Notes & Notas"
+  name = "30 Notes & Notas"
   parent = "Blog"
   pageRef = "notes-notas"
   weight = 20
