@@ -49,9 +49,9 @@
   weight = 20
 
 [[main]]
-  name = "30 Notes & Notas"
+  name = "30📄 Notes & Notas"
   parent = "Blog"
-  url = "https://rr-portifolio-blog.pages.dev/blog/notes-notas/"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/notes-notas/"
   weight = 20
 
 [[main]]

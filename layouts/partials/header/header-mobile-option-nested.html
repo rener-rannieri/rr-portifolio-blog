@@ -1,0 +1,34 @@
+<li class="mt-1">
+    <a class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        {{ if .Pre }}
+        <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
+            {{ partial "icon.html" .Pre }}
+        </span>
+        {{ end }}
+        <p class="text-bg font-bg" title="{{ .Title }}">
+            {{ .Name | markdownify | emojify }}
+        </p>
+        <span>
+            {{ partial "icon.html" "chevron-down" }}
+        </span>
+    </a>
+</li>
+{{ range .Children }}
+<li class="mt-1">
+    <!--AQUI: Remove target blank-->
+    <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:"
+        ) }}  {{ end }} class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        {{ if .Pre }}
+        <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
+            {{ partial "icon.html" .Pre }}
+        </span>
+        {{ end }}
+        <!--AQUI: Remove first prex of name. All others note in header folder not have extra codes (just here!).-->
+        {{ $menuName := substr .Name 2 (sub (len .Name) 1) }}
+        <p class="text-sm font-small" title="{{ .Title }}">
+            {{ $menuName | markdownify | emojify }}
+        </p>
+    </a>
+</li>
+{{ end }}
+<li class="mb-2"></li>
