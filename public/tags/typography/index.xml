@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Typography on Rener Rannieri</title>
-    <link>https://rr-portifolio-blog.pages.dev/tags/typography/</link>
+    <link>http://localhost:1313/tags/typography/</link>
     <description>Recent content in Typography on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/typography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Typo-Letter Series - Vol I</title>
-      <link>https://rr-portifolio-blog.pages.dev/personal-projects/design/typo_letter_series_vol_1/</link>
+      <link>http://localhost:1313/personal-projects/design/typo_letter_series_vol_1/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://rr-portifolio-blog.pages.dev/personal-projects/design/typo_letter_series_vol_1/</guid>
+      <guid>http://localhost:1313/personal-projects/design/typo_letter_series_vol_1/</guid>
       <description>Some typography experiments.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.pages.dev/personal-projects/design/typo_letter_series_vol_1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/typo_letter_series_vol_1/cover.png" />
     </item>
     
   </channel>

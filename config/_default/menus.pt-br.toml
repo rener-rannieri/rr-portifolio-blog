@@ -39,7 +39,7 @@
 [[main]]
   name = "10📦 Drops"
   parent = "Blog"
-  pageRef = "inspill-2"
+  pageRef = "drops"
   weight = 20
 
 [[main]]

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Design Visual on Rener Rannieri</title>
-    <link>https://rr-portifolio-blog.pages.dev/pt-br/tags/design-visual/</link>
+    <link>http://localhost:1313/pt-br/tags/design-visual/</link>
     <description>Recent content in Design Visual on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/pt-br/tags/design-visual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/design-visual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Poster Challenge - 2019</title>
-      <link>https://rr-portifolio-blog.pages.dev/pt-br/personal-projects/design/daily_poster_challenge_2019/</link>
+      <link>http://localhost:1313/pt-br/personal-projects/design/daily_poster_challenge_2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rr-portifolio-blog.pages.dev/pt-br/personal-projects/design/daily_poster_challenge_2019/</guid>
+      <guid>http://localhost:1313/pt-br/personal-projects/design/daily_poster_challenge_2019/</guid>
       <description>alguns posters que criei para praticar design visual.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.pages.dev/personal-projects/design/daily_poster_challenge_2019/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/personal-projects/design/daily_poster_challenge_2019/cover.png" />
     </item>
     
   </channel>
