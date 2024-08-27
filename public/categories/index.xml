@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🗂️ Categories on Rener Rannieri</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://rr-portifolio-blog.pages.dev/categories/</link>
     <description>Recent content in 🗂️ Categories on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal-Projects</title>
-      <link>http://localhost:1313/categories/personal-projects/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/personal-projects/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/personal-projects/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/personal-projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/categories/articles/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/articles/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/articles/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/articles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Drops</title>
-      <link>http://localhost:1313/categories/drops/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/drops/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/drops/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/drops/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ins-Pill</title>
-      <link>http://localhost:1313/categories/ins-pill/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/ins-pill/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/ins-pill/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/ins-pill/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ins-Pill-2</title>
-      <link>http://localhost:1313/categories/ins-pill-2/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/ins-pill-2/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/ins-pill-2/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/ins-pill-2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Log</title>
-      <link>http://localhost:1313/categories/log/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/log/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/log/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/log/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes &amp; Notas</title>
-      <link>http://localhost:1313/categories/notes--notas/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/notes--notas/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/notes--notas/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/notes--notas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/categories/thoughts/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/thoughts/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/thoughts/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/thoughts/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/projects/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/projects/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Category A</title>
-      <link>http://localhost:1313/categories/category-a/</link>
+      <link>https://rr-portifolio-blog.pages.dev/categories/category-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/category-a/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/categories/category-a/</guid>
       <description>Here would be the specific category description text.</description>
       
     </item>

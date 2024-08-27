@@ -24,8 +24,10 @@
             {{ partial "icon.html" .Pre }}
           </span>
           {{ end }}
+          <!--AQUI: Remove first prex of name. All others note in header folder not have extra codes (just here!).-->
+          {{ $menuName := substr .Name 2 (sub (len .Name) 1) }}
           <p class="text-sm font-sm" title="{{ .Title }}">
-            {{ .Name | markdownify | emojify }}
+              {{ $menuName | markdownify | emojify }}
           </p>
         </a>
         {{ end }}

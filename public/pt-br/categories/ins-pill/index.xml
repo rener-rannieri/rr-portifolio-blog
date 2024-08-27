@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ins-Pill on Rener Rannieri</title>
-    <link>http://localhost:1313/pt-br/categories/ins-pill/</link>
+    <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/ins-pill/</link>
     <description>Recent content in Ins-Pill on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/categories/ins-pill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/pt-br/categories/ins-pill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inspill Test Post</title>
-      <link>http://localhost:1313/pt-br/blog/inspill/01-post-inspill/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/blog/inspill/01-post-inspill/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/blog/inspill/01-post-inspill/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/blog/inspill/01-post-inspill/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/inspill/01-post-inspill/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.pages.dev/blog/inspill/01-post-inspill/featured.png" />
     </item>
     
   </channel>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>🎨 Concept Design on Rener Rannieri</title>
-    <link>http://localhost:1313/projects/concept-design/</link>
+    <link>https://rr-portifolio-blog.pages.dev/projects/concept-design/</link>
     <description>Recent content in 🎨 Concept Design on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/concept-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/projects/concept-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TPE - Project - 1</title>
-      <link>http://localhost:1313/projects/concept-design/tpe-project-1/</link>
+      <link>https://rr-portifolio-blog.pages.dev/projects/concept-design/tpe-project-1/</link>
       <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/concept-design/tpe-project-1/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/projects/concept-design/tpe-project-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur .congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/concept-design/tpe-project-1/cover.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rr-portifolio-blog.pages.dev/projects/concept-design/tpe-project-1/cover.webp" />
     </item>
     
   </channel>
