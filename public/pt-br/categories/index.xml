@@ -2,68 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rener Rannieri</title>
-    <link>http://localhost:1313/pt-br/categories/</link>
+    <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/</link>
     <description>Recent content in Categories on Rener Rannieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rr-portifolio-blog.pages.dev/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal-Projects</title>
-      <link>http://localhost:1313/pt-br/categories/personal-projects/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/personal-projects/</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/personal-projects/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/personal-projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/pt-br/categories/articles/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/articles/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/articles/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/articles/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Drops</title>
-      <link>http://localhost:1313/pt-br/categories/drops/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/drops/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/drops/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/drops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ins-Pill</title>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/ins-pill/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/ins-pill/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Log</title>
-      <link>http://localhost:1313/pt-br/categories/log/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/log/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/log/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/log/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes &amp; Notas</title>
-      <link>http://localhost:1313/pt-br/categories/notes--notas/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/notes--notas/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/notes--notas/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/notes--notas/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>http://localhost:1313/pt-br/categories/thoughts/</link>
+      <link>https://rr-portifolio-blog.pages.dev/pt-br/categories/thoughts/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pt-br/categories/thoughts/</guid>
+      <guid>https://rr-portifolio-blog.pages.dev/pt-br/categories/thoughts/</guid>
       <description></description>
       
     </item>
