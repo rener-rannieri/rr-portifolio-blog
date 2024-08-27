@@ -147,22 +147,6 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/blog/merda/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/merda/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/blog/merda/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/pt-br/blog/log/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -208,22 +192,6 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/blog/articles/01-post-inspill/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt-br/blog/merda/test-post/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/merda/test-post/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/blog/merda/test-post/"
     />
   </url>
   <url>
