@@ -37,15 +37,15 @@
   weight = 20
 
 [[main]]
-  name = "10 Drops"
+  name = "10📦 Drops"
   parent = "Blog"
-  pageRef = "drops"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/drops/"
   weight = 20
 
 [[main]]
-  name = "20 Artigos"
+  name = "20📰 Articles"
   parent = "Blog"
-  pageRef = "articles"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/articles/"
   weight = 20
 
 [[main]]
@@ -57,24 +57,23 @@
 [[main]]
   name = "40💊 Ins-Pill"
   parent = "Blog"
-  pageRef = "inspill"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/inspill/"
   weight = 20
 
-
 [[main]]
-  name = "50💭 Pensamentos"
+  name = "50💭 Thoughts"
   parent = "Blog"
-  pageRef = "thoughts"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/thoughts/"
   weight = 20
   
 [[main]]
   name = "60🚧 .Log"
   parent = "Blog"
-  pageRef = "log"
+  url = "https://rr-portifolio-blog.pages.dev/pt-br/blog/log/"
   weight = 20
 
 [[main]]
-  name = "70🌌 Ver Tudo"
+  name = "70🌌 See All"
   parent = "Blog"
   pageRef = ""
   weight = 20

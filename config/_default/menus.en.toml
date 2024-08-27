@@ -14,6 +14,10 @@
 
 # --------------------------------------------------------------------------------------------------------------
 
+#AVISO: Os links estão com URL pois o pageRef simplesmente não funciona!
+
+# --------------------------------------------------------------------------------------------------------------
+
 
 [[main]]
   name = "Portifolio"
@@ -37,15 +41,15 @@
   weight = 20
 
 [[main]]
-  name = "10 Drops"
+  name = "10📦 Drops"
   parent = "Blog"
-  pageRef = "drops"
+  url = "https://rr-portifolio-blog.pages.dev/blog/drops/"
   weight = 20
 
 [[main]]
-  name = "20 Articles"
+  name = "20📰 Articles"
   parent = "Blog"
-  pageRef = "articles"
+  url = "https://rr-portifolio-blog.pages.dev/blog/articles/"
   weight = 20
 
 [[main]]
@@ -57,20 +61,19 @@
 [[main]]
   name = "40💊 Ins-Pill"
   parent = "Blog"
-  pageRef = "inspill"
+  url = "https://rr-portifolio-blog.pages.dev/blog/inspill/"
   weight = 20
-
 
 [[main]]
   name = "50💭 Thoughts"
   parent = "Blog"
-  pageRef = "thoughts"
+  url = "https://rr-portifolio-blog.pages.dev/blog/thoughts/"
   weight = 20
   
 [[main]]
   name = "60🚧 .Log"
   parent = "Blog"
-  pageRef = "log"
+  url = "https://rr-portifolio-blog.pages.dev/blog/log/"
   weight = 20
 
 [[main]]
