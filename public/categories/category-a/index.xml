@@ -7,26 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Rener Rannieri</copyright>
-    <lastBuildDate>Thu, 04 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/category-a/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>TPE - Post 3</title>
-      <link>http://localhost:1313/blog/category-a/tpe-post-3/</link>
-      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/category-a/tpe-post-3/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-3/cover.png" />
-    </item>
-    
-    <item>
-      <title>TPE - Post 1</title>
-      <link>http://localhost:1313/blog/category-a/tpe-post-1/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/blog/category-a/tpe-post-1/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-1/cover.png" />
-    </item>
-    
+    <atom:link href="http://localhost:1313/categories/category-a/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

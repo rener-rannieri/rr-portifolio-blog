@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/blog/category-a/tpe-post-1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-1/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/category-a/tpe-post-1/featured.png" />
     </item>
     
   </channel>

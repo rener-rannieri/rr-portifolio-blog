@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag-Here on Rener Rannieri</title>
+    <link>http://localhost:1313/pt-br/tags/tag-here/</link>
+    <description>Recent content in Tag-Here on Rener Rannieri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Rener Rannieri</copyright>
+    <lastBuildDate>Sun, 04 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/tag-here/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TPE - Inspill</title>
+      <link>http://localhost:1313/pt-br/blog/40-inspill/4-tpe-inspill/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/blog/40-inspill/4-tpe-inspill/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/blog/40-inspill/4-tpe-inspill/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

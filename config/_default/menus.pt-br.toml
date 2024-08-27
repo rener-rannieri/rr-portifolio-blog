@@ -20,12 +20,12 @@
   pageRef = "projects"
   weight = 10
 
+
 [[main]]
   name = "PRJ Category A"
   parent = "Portifolio"
   pageRef = "prj-category-a"
   weight = 10
-
 
 
 # BLOG --------------------------------------------------------------------------------------------------------
@@ -37,11 +37,47 @@
   weight = 20
 
 [[main]]
-  name = "Category A"
+  name = "10📦 Drops"
   parent = "Blog"
-  pageRef = "category-a"
+  pageRef = "drops"
   weight = 20
 
+[[main]]
+  name = "20📰 Artigos"
+  parent = "Blog"
+  pageRef = "articles"
+  weight = 20
+
+[[main]]
+  name = "30📄 Notes & Notas"
+  parent = "Blog"
+  pageRef = "notes-notas"
+  weight = 20
+
+[[main]]
+  name = "40💊 Ins-Pill"
+  parent = "Blog"
+  pageRef = "inspill"
+  weight = 20
+
+
+[[main]]
+  name = "50💭 Pensamentos"
+  parent = "Blog"
+  pageRef = "thoughts"
+  weight = 20
+  
+[[main]]
+  name = "60🚧 .Log"
+  parent = "Blog"
+  pageRef = "log"
+  weight = 20
+
+[[main]]
+  name = "70🌌 Ver Tudo"
+  parent = "Blog"
+  pageRef = ""
+  weight = 20
 
 
 # Personal Projects ------------------------------------------------------------------------------------------
@@ -52,11 +88,13 @@
   pageRef = "personal-projects"
   weight = 30
 
+
 [[main]]
   name = "Design"
   parent = "Personal Projects"
   pageRef = "design"
   weight = 30
+
 
 
 # NOW -------------------------------------------------------------------------------------------------------
@@ -82,6 +120,7 @@
   name = "Tags"
   pageRef = "tags"
   weight = 100
+
 
 [[footer]]
   name = "Categories"

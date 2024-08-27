@@ -6,4 +6,5 @@ date: 2021-09-04
 draft: false
 ---
 
-I am an artista thats love writing.
+I write to expand my perspectives and connect <br> ideas – but, above all, to maintain sanity and clarity.
+

@@ -18,5 +18,55 @@
       
     </item>
     
+    <item>
+      <title>Articles</title>
+      <link>http://localhost:1313/pt-br/categories/articles/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/articles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Drops</title>
+      <link>http://localhost:1313/pt-br/categories/drops/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/drops/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Log</title>
+      <link>http://localhost:1313/pt-br/categories/log/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/log/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Notes &amp; Notas</title>
+      <link>http://localhost:1313/pt-br/categories/notes--notas/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/notes--notas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thoughts</title>
+      <link>http://localhost:1313/pt-br/categories/thoughts/</link>
+      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/thoughts/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
