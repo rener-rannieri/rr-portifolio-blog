@@ -83,7 +83,7 @@
 # Talvez somente um 
 
 [[main]]
-  name = "Personal Projects"
+  name = "Projetos Pessoais"
   pageRef = "personal-projects"
   weight = 30
 
@@ -108,7 +108,7 @@
 # ABOUT ------------------------------------------------------------------------------------------------------
 
 [[main]]
-  name = "About"
+  name = "Sobre"
   pageRef = "unique-pages/about"
   weight = 50
 

@@ -19,6 +19,16 @@
     </item>
     
     <item>
+      <title>Ins-Pill</title>
+      <link>http://localhost:1313/pt-br/categories/ins-pill/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/categories/ins-pill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Articles</title>
       <link>http://localhost:1313/pt-br/categories/articles/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
@@ -34,16 +44,6 @@
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/pt-br/categories/drops/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ins-Pill</title>
-      <link>http://localhost:1313/pt-br/categories/ins-pill/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/categories/ins-pill/</guid>
       <description></description>
       
     </item>

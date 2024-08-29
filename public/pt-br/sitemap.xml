@@ -68,7 +68,7 @@
   </url>
   <url>
     <loc>http://localhost:1313/pt-br/blog/inspill/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -80,6 +80,38 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/blog/inspill/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/blog/inspill/01-inspill-dynamo/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/inspill/01-inspill-dynamo/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/blog/inspill/01-inspill-dynamo/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/pt-br/blog/</loc>
+    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/blog/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-br"
+      href="http://localhost:1313/pt-br/blog/"
     />
   </url>
   <url>
@@ -163,35 +195,19 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/pt-br/blog/inspill/01-post-inspill/</loc>
+    <loc>http://localhost:1313/pt-br/blog/articles/0-tem-post-thoughts/</loc>
     <lastmod>2022-09-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/blog/inspill/01-post-inspill/"
+      href="http://localhost:1313/blog/articles/0-tem-post-thoughts/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="pt-br"
-      href="http://localhost:1313/pt-br/blog/inspill/01-post-inspill/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt-br/blog/articles/01-post-inspill/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/articles/01-post-inspill/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/blog/articles/01-post-inspill/"
+      href="http://localhost:1313/pt-br/blog/articles/0-tem-post-thoughts/"
     />
   </url>
   <url>
@@ -256,22 +272,6 @@
       rel="alternate"
       hreflang="pt-br"
       href="http://localhost:1313/pt-br/blog/thoughts/0-temp-post-thoughts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/pt-br/blog/</loc>
-    <lastmod>2022-09-04T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/blog/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pt-br"
-      href="http://localhost:1313/pt-br/blog/"
     />
   </url>
   <url>

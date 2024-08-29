@@ -19,6 +19,26 @@
     </item>
     
     <item>
+      <title>Games</title>
+      <link>http://localhost:1313/tags/games/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Product Design</title>
+      <link>http://localhost:1313/tags/product-design/</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/product-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Articles-Tags</title>
       <link>http://localhost:1313/tags/articles-tags/</link>
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
@@ -54,16 +74,6 @@
       <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/nn-tags/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tag</title>
-      <link>http://localhost:1313/tags/tag/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/tag/</guid>
       <description></description>
       
     </item>
