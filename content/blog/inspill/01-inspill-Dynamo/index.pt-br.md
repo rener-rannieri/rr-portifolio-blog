@@ -10,7 +10,7 @@ date: 2023-11-21
 ---
 
 ![Pílulas de Inspiração são posts curtos com referências de artistas e designers incríveis, que me inspiram e que podem inspirar você também.](cover.webp)
-This post is also available in {{< icon "flag-usa-icon" >}} [English](https://rr-portifolio-blog.pages.dev/blog/inspill/01-inspill-dynamo/).
+This post is also available in {{< icon "flag-usa-icon" >}} <a href="https://rr-portifolio-blog.pages.dev/blog/inspill/01-inspill-dynamo/" target="_self">Português</a>.
 
 ---
 
