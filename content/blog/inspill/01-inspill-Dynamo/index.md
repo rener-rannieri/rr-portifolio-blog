@@ -11,7 +11,7 @@ date: 2023-11-21
 
 ![Inspiration Pills are short posts packed with references to incredible artists and designers who inspire me — and might just inspire you too!](cover.webp)
 
-Este post também está disponível em {{< icon "flag-br-icon" >}} [Português](/pt-br/blog/inspill/01-inspill-Dynamo/).
+Este post também está disponível em {{< icon "flag-br-icon" >}} [Português](https://rr-portifolio-blog.pages.dev/pt-br/blog/inspill/01-inspill-dynamo/).
 
 ---
 

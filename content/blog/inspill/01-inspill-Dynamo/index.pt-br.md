@@ -10,14 +10,13 @@ date: 2023-11-21
 ---
 
 ![Pílulas de Inspiração são posts curtos com referências de artistas e designers incríveis, que me inspiram e que podem inspirar você também.](cover.webp)
-This post is also available in {{< icon "flag-usa-icon" >}} [English](/blog/inspill/01-inspill-Dynamo/).
+This post is also available in {{< icon "flag-usa-icon" >}} [English](https://rr-portifolio-blog.pages.dev/blog/inspill/01-inspill-dynamo/).
 
 ---
 
 O designer alemão Sebastian Stapelfeldt, mais conhecido por [carlhauser](https://www.carlhauser.com), capta a essência do icônico Game Boy, junto à estética amigável e moderna, com o Dynamo.
 
 ![A modern handheld video game console inspired by the classic Game Boy, featuring a minimalist design with a detachable screen and retro-style buttons.](img/inspill-01-Dynamo-img-05.webp)
-
 
 ![A modern handheld video game console inspired by the classic Game Boy, featuring a minimalist design with a detachable screen and retro-style buttons.](img/inspill-01-Dynamo-img-01.webp)
 

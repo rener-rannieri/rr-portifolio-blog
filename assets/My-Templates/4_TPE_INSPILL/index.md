@@ -11,7 +11,7 @@ date: 2024-00-00
 
 ![Inspiration Pills are short posts packed with references to incredible artists and designers who inspire me — and might just inspire you too!t](cover.webp "Caption")
 
-Este post também está disponível em {{< icon "flag-br-icon" >}} [Português](/pt-br/blog/inspill/NAME-FOLDER-POST/).
+Este post também está disponível em {{< icon "flag-br-icon" >}} [English](https://rr-portifolio-blog.pages.dev/pt-br/blog/inspill/NAME-FOLDER-POST/).
 
 ---
 

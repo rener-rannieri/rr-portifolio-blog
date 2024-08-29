@@ -11,7 +11,7 @@ date: 2024-00-00
 
 ![Pílulas de Inspiração são posts curtos com referências de artistas e designers incríveis, que me inspiram e que podem inspirar você também.](cover.webp "Caption")
 
-This post is also available in {{< icon "flag-usa-icon" >}}  This post is also available in {{< icon "flag-usa-icon" >}} [English](/blog/inspill/01-inspill-Dynamo/).
+This post is also available in {{< icon "flag-usa-icon" >}}  This post is also available in {{< icon "flag-usa-icon" >}} [English](/blog/inspill/NAME-FOLDER-POST/).
 
 ---
 
